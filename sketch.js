@@ -96,6 +96,10 @@ function draw() {
     block19.display();
     block20.display();
     block21.display();
+    block22.display();
+    block23.display();
+    block24.display();
+    block25.display();
     polygon.display();
     slingshot.display();
 
